@@ -19,3 +19,5 @@ Y como un amable recordatorio: **Este readme.md es un chiste**.  Diseñado para 
 Aqui voy a hacer otro
 
 ## Incluye ejemplos en linux y Windows
+
+##es para todos
